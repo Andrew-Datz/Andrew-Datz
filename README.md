@@ -36,9 +36,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 <!-- Header -->
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
-  <h1 class="w3-margin w3-jumbo">START PAGE</h1>
+  <h1 class="w3-margin w3-jumbo">Img-1</h1>
   <p class="w3-xlarge">Andrew Datz</p>
-  <button class="w3-bu!">Get Started</button>
+  <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>
 </header>
 
 <!-- First Grid -->
@@ -46,14 +46,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Beginnings</h1>
-      <h5 class="w3-padding-32">Hello, my name is Andrew Datz,</h5>
+      <h5 class="w3-padding-32">Hello, my name is Andrew Datz</h5>
 
       <p class="w3-text-grey">I am currently looking into becoming a videographer A videographer is a person that specializes in shooting and editing high-definition videos of live events and small-scale video production. this makes them presentable to clients and work on short materials such as documentaries, short-films, advertisements, and live events such as weddings, parties, and sports events.</p>
     </div>
 
     <div class="w3-third w3-center">
-      <i class="![Img-1](https://user-images.githubusercontent.com/100314090/159071857-56180e99-4b0f-4301-8745-49353790aa1b.png)">
-</i>
+      <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
     </div>
   </div>
 </div>
@@ -62,9 +61,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-third w3-center">
-      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
+      <i class="!H3 class= "W3-center">[Img-1](https://user-images.githubusercontent.com/100314090/159071857-56180e99-4b0f-4301-8745-49353790aa1b.png)</i>
     </div>
 
+</picture>
     <div class="w3-twothird">
       <h1>Bio</h1>
       <h5 class="w3-padding-32">In order to start looking at my profession and what I am striving to work for in the past </h5>
