@@ -45,12 +45,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
-      <h1>Lorem Ipsum</h1>
-      <h5 class="w3-padding-32">The pain itself is the love of the pain, the main ecological problems, but I give this kind of time to fall down, so that some great pain and pain. In order that for the most part, any one of us will come to the exercise of any kind of employment except to take advantage of the objectives from it.</h5>
+      <h1>Beginnings</h1>
+      <h5 class="w3-padding-32">Hello, my name is Andrew Datz,</h5>
 
-      <p class="w3-text-grey">The pain itself is the love of the pain, the main ecological problems, but I give this kind of time to fall down, so that some great pain and pain. In order that for the most part, any one of us will come to the exercise of any kind of employment except to take advantage of the objectives from it. Excepteur sint
-        blinds longing, they do not see, they are at fault for those who desert their offices, soothes the soul, that is, the labors of the main undergraduate students, but I give this kind of time to fall into some great pain. In order for more information to come, what is our school practice
-        employment only to achieve the objectives from it.</p>
+      <p class="w3-text-grey">I am currently looking into becoming a videographer A videographer is a person that specializes in shooting and editing high-definition videos of live events and small-scale video production. this makes them presentable to clients and work on short materials such as documentaries, short-films, advertisements, and live events such as weddings, parties, and sports events.</p>
     </div>
 
     <div class="w3-third w3-center">
@@ -67,12 +65,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     </div>
 
     <div class="w3-twothird">
-      <h1>Lorem Ipsum</h1>
-      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
+      <h1>Bio</h1>
+      <h5 class="w3-padding-32">In order to start looking at my profession and what I am striving to work for in the past </h5>
 
-      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p class="w3-text-grey">Working up from my highschool years I took interest to an engineering class and continued throughout my freshmen to senior years. During those classes I had to work on numerous projects such as a programmable all terrain remote vehicle in my sophmore year. a Remote arm during my junior year and a Stormdrain filter during my senior year.
+        Frankly those projects are quite a daunting task with most of the objectives have to be programmed into the machine. Finally in senior year, I was assigned to a two person group and searched up many references to put data together for making the storm drain filter work to seperate trash and liquid toxins from water, what the final product was a disposable net
+      that holds the trash from getting into the storm drain. During my senior year I looked into video production as a major and started taking a video class. My projects there included making a video during the school year. during the winter break I had to make a stopmotion film that is a minute long and I did that utilizing a LEGO stopmotion. The other was an animated
+    stopmotion in which I put a lot of work into by editing every frame and making the piece move on its own. This project made me work on the audio elements as well since I needed to take audio clips from the internet to fill in the noise gap.</p>
     </div>
   </div>
 </div>
