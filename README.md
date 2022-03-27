@@ -19,7 +19,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-red w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 1</a>
+    <a href="https://www.flickr.com/people/195081609@N08/">visit About Andrew Datz flickr< class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 1</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 2</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 3</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 4</a>
@@ -70,7 +70,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
       <h1>Bio</h1>
       <h5 class="w3-padding-32">In order to start looking at my profession and what I am striving to work for in the past </h5>
 
-      <p class="w3-text-grey">Working up from my highschool years I took interest to an engineering class and continued throughout my freshmen to senior years. During those classes I had to work on numerous projects such as a programmable all terrain remote vehicle in my sophmore year. a Remote arm during my junior year and a Stormdrain filter during my senior year. I looked into video production as a major and started taking a video class. My projects there included making a video during the school year. during the winter break I had to make a stopmotion film that is a minute long and I did that utilizing stopmotion. and post-production audio editing. overtime I decided to utilize the ingenuity from the all-terrain vehicle and placed this into my video production.
+      <p class="w3-text-grey">Working up from my highschool years I took interest to an engineering class and continued throughout my freshmen to senior years. During those classes I had to work on numerous projects such as a programmable all terrain remote vehicle in my sophmore year. I looked into video production as a major and started taking a video class. My projects there included making a video during the school year. During the winter break I had to make a stopmotion film that is a minute long and I did that utilizing stopmotion, and post-production audio editing. Overtime I decided to utilize the ingenuity from the all-terrain vehicle and placed this into my video production.
     </div>                 
   </div>
 </div>
