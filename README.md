@@ -52,8 +52,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     </div>
 
     <div class="w3-third w3-center">
-      <i class="fa fa-anchor w3-padding-64 w3-text-red"></i>
-      <img src="/images/Img_1.png"
+      <h2>HTML Image</h2>
+      <img src="/images/Img_1.png" alt_Img-1 width="500" height="333">
     </div>
   </div>
 </div>
